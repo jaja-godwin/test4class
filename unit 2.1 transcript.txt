@@ -1,0 +1,75 @@
+Unit 2.1 Digital Banking
+
+Digital Banking
+You may ask yourself, what does digital banking actually mean? Digital banking is the digitization or moving online of all the traditional banking activities and programs that historically were only available to customers when physically inside of a bank branch. This includes activities like money deposits, withdrawals and transfers, and checking and savings account management. But how did we get here? Let's begin with a short history of digital banking. 
+
+Short History of Digital Banking
+In 1994, online banking is built into Microsoft Money. At that time, 100,000 households began assessing their accounts online. In 2001, online banking hits 20 million users, eight different US banks achieving 1 million online users alone. In 2007, the launch of the iPhone begins shifting digital banking from desktop computers to smartphones. In 2009, online banking hits a record, 54 million users in the United States. As of 2016, millennials were successful in fundamentally shifting the digital banking preferences, signaling to banks that they must move all services online. 
+
+Benefits/Importance of Digital Banking
+There are many benefits to the customers and the banks as well. For the customers, it creates choice and convenience. For the banks, it attracts high-value customers. It also produces an enhanced organizational image, increases the revenue, and reduces load on other products channels that are non-digitized. It also provides cost reduction and organizational efficiencies. It's also easier to expand a digital footprint due to its plug-and-play nature. 
+
+
+Types of Digital Banking
+There are a number of things that could be categorized as digital banking. We are going to focus on three: Personal computer banking or PC banking, Internet online banking, and POS or point of sale. At this time in PC banking and Internet online banking is by far the most frequently used. 
+
+PC Banking
+First, let's look at PC banking. PC banking is a form of online banking that enables customers to execute bank transactions from a PC via a modem or dialing. Banks usually offer the customer a proprietary financial software program, that allows the customer to perform financial transactions from his or her home computer. The customer dials into the bank from their network, downloads data, and runs the program that reside on the customer's computer. 
+
+Internet Banking
+Next, let's look at Internet banking. Sometimes called online banking, is really an outgrowth of PC banking. Internet banking uses the Internet as the delivery channel by which to conduct banking activity. Customers can access his or her accounts through a browser. It is also known as virtual cyber net interactive or web banks. In this instance, banking programs reside on the bank servers, not on the user's individual PC. 
+
+Point of Sale Terminals (POS)
+Next, let's look at point of sale terminals or POS, something that you may not have considered as digital banking. Point of sales are located at stores, and allow the customers to use a credit, debit card to make a purchase. The debit, credit card magnetic strip is swiped through the POS machine. After the required pin is provided, the transaction is authorized through the bank. At the purchases under $25, a signature may not even be required. 
+
+
+Online Banking vs Digital Banking
+You may often hear online banking versus digital banking, and some people use them in the context of the same thing. In online banking and digital banking are both modern ways to conduct banking transactions sitting in the comfort of your own home without physically going to a bank, but digital banking is much broader and spectrum than online banking. In that, it encompasses the use of cards for withdrawal of money and making payments to merchants, even without going online. 
+
+
+What does a Digital Banking System require?
+Much with everything else that we've talked about today and we will talk about it in the future relative to banking, digital banking has some system requirements. It needs to be secure, it needs to be user-friendly, it needs to be portable, it needs to be transferable, and it should be anonymous. 
+
+Security
+First, let's look at security and why it is required for digital banking. Two people in digital banking should be able to exchange digital cash without any party being able to alter or reproduce the electronic token. The transaction protocol must ensure high-level security with sophisticated encryption techniques such as, private keys which we will talk about later. The authentication of the sender and receiver should involve a digital signature. 
+
+User-friendliness
+User-friendliness is another factor that should be present in successful digital banking systems. User should not have to understand the cryptographic techniques involved in the exchange. It should be easy to spend and to accept as a form of payment. Complicated systems are difficult to administer, and raise the failure rate due to the errors of the users. Therefore, simplicity leads to a critical mass of users, and this leads to wide acceptability in the market. 
+
+Portablility
+Next, let's look at the portability functions that should be available in banking systems that are digital. People should be able to easily carry their digital cash and exchange it with alternative delivery systems. Non-computer network delivery channels should be able to handle digital money. The security and use of digital cash should not be dependent on any physical location, and the digital wealth should not be restricted to a unique proprietary computer network which will be exclusionary. 
+
+Transferablility
+Next, let's look at transferability. Digital cash should be transferable to other users. If I paid the bill for three friends, they should be able to easily transfer their share of the bill to me. Peer-to-peer payments should be possible without a third party such as a bank. Neither party should be required to have registered merchant status. Neither party should have to be online to do this. Digital money can then be used for gifts, charity, and/or tips. 
+
+Anonymity
+Finally, and some people say more importantly, it should provide anonymity. Anonymous digital cash allows personal financial privacy. It must be untraceable. A digital cash withdrawal can not be associated with its subsequent deposits. Transactions made with it are unlink-able. It is impossible to associate two different digital cash transactions made by the same person with each other. 
+
+
+How are Digital Banking Systems even possible?
+You may now be thinking how are digital banking systems even possible? Cryptography and digital signatures make it possible, and we will talk about that some more in the cybersecurity section. But basically, banks and customers have public key pairs. They use public keys to encrypt for security, and private keys to sign for identification. Blocks of digital data that represent money orders contain those items. Bank sign the orders when using its private key, and customers and merchants verify the signed money using the bank's public key. Customers sign their transactions using their private keys, and the bank uses their public keys to verify the signed withdrawals and deposits. 
+
+
+Why Digital Banking Systems valuable
+So after reviewing the requirements for a digital banking system, you may be wondering how can banks even make money doing this? Well, there are greater efficiencies and lower costs for businesses using this model. It eliminates the cost of handling coins and paper, and the estimated cash handling costs for US retailers and banks is over $60 billion US annually. Studies have shown that a financial institution saves between $0.75 and $1.25 for each payment converted from a deposit made with a teller to a direct deposit. Annual cost savings to the banking industry as a result of these new electronic payments should run between $350 million and $500 million annually. 
+
+We talked about E-Money but What about Digital Money?
+In an earlier section, we talked briefly about E-Money. But there's a second type of open system called digital money. Digital money systems can operate independently of banks and outside traditional payment systems. The user buys digital money from issuers using traditional money. She spends it at a merchant, who then sends the digital money to the issuer. It is redeemed with some form of traditional money such as a check on a bank balance. In this system, the digital money does not pass through the traditional payments clearing systems, but circulates outside of it. 
+
+Digital Money Explained
+So that may have been a little confusing. So let's go into digital money a little deeper. It is an open system where digital money circulates among users before being used with merchants, in much the same manner as traditional cash. Users have their own special computer equipment allowing them to transfer digital money from one user's card to another. This P2P or peer-to-peer transfer does not clear the traditional payment system, in contrast to peer-to-peer transfers involving paper checks. The only points of contact between traditional payment systems and digital money is the initial purchase of digital money from the issuer, with the use of traditional money, and the redemption of digital money by the merchant. 
+
+General Issues in today's Digital Banking
+Let's consider some of the general issues in today's digital banking. The banking regime is a highly complex and interrelated global system. There are multiple forces affecting the evolution of banking: consumer spending habits, interest rates and cost of money, the Federal Reserve policy, and the general regulatory regimen that is required. In general, the large and stable banks are losing ground to more non-traditional companies and services related to money transfer systems. 
+
+Digital Banking Terms to know
+There are also some unique digital banking terms that you should probably know. Things like microtransactions. Microtransactions are financial transactions for less than one dollar. They are prevalent offline and typically executed using cash. Online they are still rare, because payment methods are far too costly for merchants to process such small transaction amounts. The costs of processing the transaction must be lower than the cost of the goods and services themselves. 
+
+Successful Micro-transaction Example
+There is an organization in the Fintech space who has figured this out. A company called Peppercoin. It uses mathematical probability to efficiently and profitably process small transactions. It does not use transaction aggregation. It's far less overhead than traditional transaction aggregation techniques. It reduces merchant transaction costs to a few pennies per transaction, making it more valuable to customers. Companies can increase revenue through the sale of low-price content, and customers have a single Peppercoin account across multiple merchants. 
+
+Other "Digital Banking" Companies
+There is also a digital banking company that I think you're all familiar with, PayPal. PayPal enables individuals or businesses with an email address to securely, easily, and quickly send and receive payments online. It uses the existing financial infrastructure of bank accounts and credit cards. It has a proprietary fraud prevention system to provide a safe global and real-time payments solution. It currently has over 40 million accounts in 38 countries. Buyers and sellers on eBay, online retailers, online businesses, and offline business transact with Paypal. 
+
+Future of Digital Banking Systems
+So what does the future hold for digital banking systems? Most digital money transfer systems are aiming at universal acceptability. But this will depend on the widespread public acceptance of electronic cash. To reach this level of acceptance will require a considerable investment by the financial services and by the merchants who would use them. It is expected that when this happens, those costs will be transferred to the end-user. 

@@ -1,0 +1,58 @@
+Unit 2.3 Investments
+
+What is an Investment Bank?
+The next knowledge area in FinTech of today is investments. Let's start with an understanding of what is an investment bank. An investment bank is a financial institution that raises capital, trade securities, and manages corporate mergers and acquisitions. Investment banks profit from companies and governments by raising money through issuing and selling securities and capital markets and ensuring bonds. It also provides advice on transactions such as mergers and acquisitions, and offers advice for divestiture or other financial services for clients such as the trading of derivatives, fixed income, foreign exchange, commodity, and equity securities. 
+
+Investment vs Commercial Bank
+So what is the difference between an investment bank and a commercial bank? After the stock market crash of 1929, the Glass-Steagall Act was enacted which prohibited banks from both accepting deposits and underwriting securities and led to the segregation of investment banks from commercial banks. The Glass-Steagall Act was effectively repealed for many large financial institutions by the Gramm-Leach-Bliley Act of 1999. Other industrialized countries, including the G7 countries, have not maintained this separation today. 
+
+Investment Bank Revenue-Generating Activities
+So when you look at how investment banks generate revenue, there are number of factors here. They do primary market making, corporate, municipal treasury and agency finance. Secondary market making, dealer activities and broker activities, trading, corporate restructuring, expansion contraction, ownership and control. Some financial engineering relative to zero-coupon securities are mortgage-backed securities and derivatives, and there are other generating activities; investment management, merchant banking, consulting, and transaction banking. 
+
+Other Banking Support Activities
+There are also other banking support activities in the middle office and the back office. The middle office things like risk management and corporate treasury, financial controlling, corporate strategy, and compliance are happening. The place where FinTech is going to be most heavily impacted is in the back office having to do with operations and payment systems and information technology. 
+
+Buy Side vs Sell Side of Investment Banking
+To look at it in its most basic form, there is both a buy side and the sell side of investment banking. The buy side is dealing with pension funds, mutual funds, hedge funds, and the investing public who consume the products and services of the sell side in order to maximize the banks return on investment. On the sell side, we're talking about trading securities for cash or other securities, like market-making and facilitating transactions, and the promotion of securities like research and underwriting. 
+
+Chinese Walls
+As you might imagine, with funds being managed and manipulated in different areas of the bank, potential conflicts of interest may arise between these different parts of the bank, creating a potential for market movements that could be considered market manipulation. Authorities that regulate investment banking like the SEC, require that banks impose a Chinese wall which prohibits communication between investment banking on one side and equity research and trading on the other. 
+
+Corporate Finance Transaction Types
+Now, when you're looking at corporate financing, there are a couple of transaction types that we will be talking about. Equity offerings, talking about IPOs or initial public offerings and secondary market offerings or SEOs. Mergers and acquisitions and leveraged buyouts are leveraged in general. 
+
+1. Equity Offerings-Initial Public Offering
+Let's start off by looking at equity offerings or initial public offerings. What is an IPO? An IPO is the process by which a private company transforms itself into a public company. The company offers for the first time shares of its equity ownership per se to the investing public. These shares subsequently trade on a public stock exchange. But why would an organization want IPO? There are a number of reasons, but mostly it has to do with looking to raise cash to fund additional growth. They partially cash out or entirely sell the ownership of the company or to diversify net worth and to gain liquidity in the market. But there are concerns with going public. It's not a slam dunk. Firms with poor growth prospects will in general fail to find an investment bank willing to underwrite it. 
+
+Pros and Cons of an IPO
+But as with everything else, there are pros and cons of going to an IPO. The advantages are, it's certainly creates a stronger capital base and increases financing prospects. It is actually better suited for acquisitions if you're looking to acquire another company or for owner diversification like you want to diversify your market, certainly helps with executive compensation and it can increase the company's prestige. Now, the disadvantages are important to understand as well. It's focused on short-term growth and creates pressure relative to having quick growth. It requires disclosure and confidentiality about what is really going on behind the doors of the organization, and it actually costs a lot in the beginning and on going until it's resolved and it's completed. It does place some restrictions on management about what they can talk about in the transactions they can perform, and there may be loss of personal benefits in the organization to your employees. Finally, there are some trading restrictions depending on the market that you find yourself that may also hamper your transition. 
+
+1st Step of an IPO - The Pitch
+The first step in an IPO is something called the pitch, and starts with something called the pitch book, which includes the banks reputation, which can lend the offering aura of respectability, the performance of other IPOs managed by the bank, and the bank's expertise as an underwriter in this industry. It begins with an originating or hiring managers and it's really talking about a beauty contest. You're making a valuation and you're mixing the art and science of what we're offering here, trying to get the highest valuation and the best qualified manager to help move through the process. It also helps determine the structuring and distribution of funds when things start moving forward. 
+
+2nd Step of IPO - Underwriting
+Step 2 of an IPO is underwriting. You need to form a syndicate, that we'll talk about in a second, and the selling group for joint distribution of the offering. Members of the syndicate make a firm commitment to distribute a certain percentage of the entire offering. Selling groups will do their best effort of choosing brokers who are formed to assist the syndicate members to meet these obligations. The managing underwriter makes a commitment to the issuing corporation to purchase all shares being offered. If a part of the new issue goes unsold, any losses are distributed amongst the members of the syndicate. 
+
+The Syndicate
+So I mentioned the formation of the syndicate, and the syndicate is a vital link between sales people and corporate finance. The syndicate exists to facilitate the placing of securities in a public offering. In a corporate or municipal debt deal, the syndicate also determines the allocation of bonds. 
+
+Pricing of an IPO
+So how do you determine the price of an IPO? Lead managers help to decide on an appropriate price at which the shares should be issued. There are two ways in which the price of an IPO can be determined. The company with the help of its lead managers, fixes the price or the price is arrived at through the process called book building. 
+
+3rd Step of an IPO - Due Diligence and Drafting
+The next step in an IPO is due diligence and drafting. Understanding the company's business and proper scenarios need to be determined through due diligence. Filing the legal documents are required by the regulators which is called a prospectus, and then the registration statement is belt which contains the business products, services, and markets, company information, the risk factors, the proceeds use, officers and directors, related party transactions, the identification of principals shareholders, and audited financials. 
+
+4th Step of an IPO - Marketing
+The next step is where the marketing of the IPO starts, and it's generally done with something called a roadshow which is a gathering of people that are interested in what you're trying to offer. It's important to note though that an indication of interests does not obligate or buying the customer to purchased the issue, since all sales are prohibited until the security has cleared registration. The final prospectus that we talked about previously is issued and it contains all the information from preliminary perspectives plus any amendments, the final price of the issuance, the underwriting margin, and the phase ends with the placement of stock. 
+
+Fees of an IPO
+So you may ask yourself, what does an investment bank get out of this? Well, there is a price that's paid to the investment bank known as the underwriting proceeds. The margin between the public offering price or POP and the underwriting proceeds is split into the following components. Managers fees goes to the managing underwriter for negotiating and managing the offering, underwriting fee goes to the managing underwriter and syndicate pampers for assuming the risk of buying the securities from the issuing corporation, and selling concession goes to the managing underwriter, the syndicate members, and to selling group members for placing the securities with investors. 
+
+Last Step of an IPO - Stock Trading
+The last step of the IPO is where the craziness really begins. It's the actual stock trading on the market. 
+
+Bond Offerings
+There are reasons why an organization may decide to do bonds instead of stock. The reason for issuing bonds rather than stock can vary. Perhaps the stock price of an issuer is down and thus a bond issue is a better alternative at this time. Maybe the firm does not wish to dilute its existing shareholders by issuing more equity. The bond offering process closely resembles the IPO process. The primary difference lies in that the prospectus for a bond offering will emphasize the company's stability and steady cash flow, whereas a stock prospectus will usually play up the company's growth and expansion opportunities. The company may also want to obtain a favorable credit rating from a debt rating agencies like S&P or Moody's as the firm may want to pay a lower interest on its existing debt. 
+
+Relationships of Different Divisions in Investment Banking
+Earlier, I talked about Chinese Walls and why they are important and why they are required in some instances by the Securities and Exchange Commission. If you look at the relationship of different divisions in an investment bank, you can understand why this division needs to happen. It all starts that corporate finance who's looking at the dollars that the organization is making it the time, which inside of that would be the syndicate group that we talked about. Housed in that would be sales and housed inside of that would be the trading. So the intricacies of what's going on in the interaction between these multiple levels needs to be clearly understood as so not to commit fraud or market manipulation. 
